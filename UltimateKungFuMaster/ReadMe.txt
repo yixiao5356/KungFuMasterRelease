@@ -1,0 +1,1 @@
+While playing infinity Master, your win record is saved at your local directory C:\MasteryRecord
