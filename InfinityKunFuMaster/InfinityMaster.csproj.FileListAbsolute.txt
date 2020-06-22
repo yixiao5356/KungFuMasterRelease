@@ -1,6 +1,0 @@
-C:\Users\YiXiao\Desktop\HaveFunProgramming\KungFuMasterSource\InfinityMaster\InfinityMaster\bin\Release\InfinityMaster.exe.config
-C:\Users\YiXiao\Desktop\HaveFunProgramming\KungFuMasterSource\InfinityMaster\InfinityMaster\bin\Release\InfinityMaster.exe
-C:\Users\YiXiao\Desktop\HaveFunProgramming\KungFuMasterSource\InfinityMaster\InfinityMaster\bin\Release\InfinityMaster.pdb
-C:\Users\YiXiao\Desktop\HaveFunProgramming\KungFuMasterSource\InfinityMaster\InfinityMaster\obj\Release\InfinityMaster.csproj.CoreCompileInputs.cache
-C:\Users\YiXiao\Desktop\HaveFunProgramming\KungFuMasterSource\InfinityMaster\InfinityMaster\obj\Release\InfinityMaster.exe
-C:\Users\YiXiao\Desktop\HaveFunProgramming\KungFuMasterSource\InfinityMaster\InfinityMaster\obj\Release\InfinityMaster.pdb
